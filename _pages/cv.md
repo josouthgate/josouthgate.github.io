@@ -25,6 +25,6 @@ Talks
 Teaching
 ======
 * Graduate Teaching Assistant, University of St Andrews
-  MT1002, Mathematics, 2020-
-  MT1003, Pure and Applied Mathematics, 2020-2022
-  MT2503, Multivariate Calculus, 2023-
+   * MT1002, Mathematics, 2020-
+   * MT1003, Pure and Applied Mathematics, 2020-2022
+   * MT2503, Multivariate Calculus, 2023-
