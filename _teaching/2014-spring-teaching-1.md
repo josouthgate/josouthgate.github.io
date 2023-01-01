@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+type: ""
+permalink: /teaching/GTAStA
+venue: "University of St Andrews"
+date: 2020
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I have been a graduate teaching assistant at the University of St Andrews since 2020, teaching [MT1002 Mathematics](https://www.st-andrews.ac.uk/subjects/modules/catalogue/?code=MT1002&academic_year=2022/3), [MT1003 Pure and Applied Mathematics](https://www.st-andrews.ac.uk/subjects/modules/catalogue/?code=MT1003&academic_year=2022/3) and (starting this semester) [MT2503 Multivariate Calculus](https://www.st-andrews.ac.uk/subjects/modules/catalogue/?code=MT2503&academic_year=2022%2F3).
