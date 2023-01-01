@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Jack Southgate"
-  avatar           : "profile.png"
-  bio              : "PhD candidate"
-  location         : "St Andrews"
+  avatar           : # update with photo
+  bio              :
+  location         :
   employer         :
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
