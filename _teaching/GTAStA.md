@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/GTAStA
 venue: "University of St Andrews"
-date: 2020
+date: 2020-10-26
 location: "City, Country"
 ---
 
