@@ -1,0 +1,12 @@
+---
+title: "Bounds on Embeddings of Triangulations of Spheres"
+collection: publications
+permalink: /publications_and_preprints/2023-01-18-Bounds
+date: 2023-01-18
+paperurl: 'https://arxiv.org/abs/2301.04394'
+---
+Borcea and Streinu showed that the upper bound of the number of congruence classes of a minimally d-volume rigid (d+1)-uniform hypergraph on n vertices in Rd increases exponentially in n and d. We show that this result also holds for triangulations of S2 in R2, and then find a geometrically motivated bound linear in n for bipyramids. By the methods used to deduce this bound, we show that, in general, global d-volume rigidity in Rd is not a generic property of a (d+1)-uniform hypergraph.
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
