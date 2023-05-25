@@ -21,6 +21,8 @@ Talks
 ======
 * Generic Global Rigidity of Hypergraph Frameworks
   British Combinatorial Conference, Lancaster University, 2022
+* Bounds on Embeddings of Triangulations of Spheres
+  Graph Rigidity and Applications, Lancaster University, 2023
   
 Teaching
 ======
