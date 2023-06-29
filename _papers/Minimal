@@ -1,0 +1,12 @@
+---
+title: "Minimal Face Numbers for Volume Rigidity"
+collection: publications
+permalink: /publications_and_preprints/2023-06-29-Minimal
+date: 2023-06-29
+paperurl: 'https://arxiv.org/abs/2306.13560'
+---
+Maxwell introduced a necessary minimum number of edges in terms of the number of vertices required for a graph to yield a Euclidean rigid generic framework in R3, this count was generalised to Rd, for all d≥1. In this paper, we give the analogous minimum number of k-simplices, for all 0≤k≤d, required for a pure d-dimensional simplicial complex to yield a volume rigid generic framework in Rd, for all d≥1. In order to do so, we prove some basic facts about the volume rigidity matroid and use exterior algebraic shifting, a recently added tool to the study of volume rigidity. We later prove a volume rigidity Vertex Removal Lemma and use our count to strengthen the statement.
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
