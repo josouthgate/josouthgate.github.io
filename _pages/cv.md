@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Brief CV, to download a full CV, please click [here](http://jsouthgate1.github.io/files/JackSouthgateCV.pdf).
+Brief CV, to download a full CV, please click [here](http://jsouthgate1.github.io/files/Jack Southgate CV 2025.pdf).
 
 Academic employment
 ======
