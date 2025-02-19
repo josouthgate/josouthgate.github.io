@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in maths at the University of St Andrews under the primary supervision of Louis Theran, I have been here since 2020. Previously I was an undergraduate at the University of Bristol.
+I am a mathematics postdoc at ICERM, Brown University, primarily reasearching rigidity theory. Previously I was a PhD student at the University of St Andrews, graduating in 2024, under Louis Theran.
 
-I am interested in the intersections of geometry and combinatorics. My research is in rigidity theory - studying how combinatorial objects (such as simplicial complexes) realised in some space may be deformed whilst preserving some geometric properties (the lengths of their edges, volumes of their faces, etc.).
+Rigidity theory sits in the intersection of geometry and combinatorics, studying how combinatorial objects (such as graphs) realised in some space can be deformed whilst preserving some of their geometric properties (such as the lengths of their edges).
