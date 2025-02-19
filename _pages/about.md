@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a mathematics postdoc at ICERM, Brown University, primarily reasearching rigidity theory. Previously I was a PhD student at the University of St Andrews, graduating in 2024, under Louis Theran.
+I am a mathematics postdoc at ICERM, Brown University, primarily reasearching rigidity theory. I completed my PhD at the University of St Andrews in 2024, supervised by Louis Theran.
 
 Rigidity theory sits in the intersection of geometry and combinatorics, studying how combinatorial objects (such as graphs) realised in some space can be deformed whilst preserving some of their geometric properties (such as the lengths of their edges).
