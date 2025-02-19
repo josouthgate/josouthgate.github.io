@@ -9,10 +9,14 @@ redirect_from:
 
 Brief CV, to download a full CV, please click [here](http://jsouthgate1.github.io/files/JackSouthgateCV.pdf).
 
+Academic employment
+======
+* Semester Postdoctoral Fellowship, ICERM, Brown University, 2025
+
 Education
 ======
 * MSci Mathematics, University of Bristol, 2020
-* PhD Mathematics, University of St Andrews, ongoing
+* PhD Mathematics, University of St Andrews, 2024
 
 Publications
 ======
